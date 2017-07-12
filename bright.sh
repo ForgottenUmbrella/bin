@@ -1,4 +1,5 @@
 #!/bin/bash
+# Inspired by https://bbs.archlinux.org/viewtopic.php?id=132218.
 
 STEP="5"
 
